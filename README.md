@@ -13,7 +13,7 @@
 
 
 
-🎓 Sou formado em Análise e Desenvolvimento de Sistemas (ADS), mas tenho buscado novos caminhos e desafios profissionais.
+🎓 Sou formado em Análise e Desenvolvimento de Sistemas (ADS), atualmente em busca de novos caminhos e desafios profissionais.
 
 🚀 Tenho grande interesse em atuar na área de desenvolvimento, onde pretendo crescer e contribuir com soluções eficientes!
 
