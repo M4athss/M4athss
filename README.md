@@ -19,9 +19,13 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4athss&show_icons=true&theme=dark)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4athss&layout=donut)](https://github.com/m4athss/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=M4athss&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true&card_width=1090)](https://git.io/streak-stats)
 
 <!---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4athss&show_icons=true&theme=dark)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4athss&layout=donut)](https://github.com/m4athss/github-readme-stats)
+
+
  👋 Hi, I’m @M4athss
 
 M4athss/M4athss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
