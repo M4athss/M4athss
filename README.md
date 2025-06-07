@@ -27,10 +27,12 @@
 
 ---
 
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=M4athss&theme=codestackr&hide_border=true&locale=pt_BR&short_numbers=true&card_width=1090)](https://git.io/streak-stats)
 
 <!---
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M4athss&card_width=1090&card_height=210" alt="GitHub Streak" /></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4athss&show_icons=true&theme=dark)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4athss&layout=donut)](https://github.com/m4athss/github-readme-stats)
 
 
