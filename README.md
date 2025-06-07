@@ -17,6 +17,14 @@
 
 🚀 Tenho grande interesse em atuar na área de desenvolvimento, onde pretendo crescer e contribuir com soluções eficientes!
 
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,git,github,idea,linux,mint,selenium,py" />
+  </a>
+</p>
+
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=M4athss&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true&card_width=1090)](https://git.io/streak-stats)
