@@ -27,7 +27,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=M4athss&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true&card_width=1090)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=M4athss&theme=codestackr&hide_border=true&locale=pt_BR&short_numbers=true&card_width=1090)](https://git.io/streak-stats)
 
 <!---
 
